@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: Jorte Press Release about CalConnect XLII and JEDC
 date: 2018-05-29

@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Stockholm University Joins CalConnect
 type: news

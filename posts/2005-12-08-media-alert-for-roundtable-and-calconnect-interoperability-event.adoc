@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Roundtable V and its interoperability event have been completed
 type: news

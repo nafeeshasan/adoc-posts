@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Roundtable II and CalConnect Interoperability Event
 type: news

@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  IceWarp Joins CalConnect
 type: news

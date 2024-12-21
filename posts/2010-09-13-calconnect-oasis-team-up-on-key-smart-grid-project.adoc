@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect, OASIS Team Up on Key Smart-Grid Project
 type: news

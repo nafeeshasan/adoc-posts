@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: e-Pro Magazine writes on Roundtable II and CalConnect Interoperability Event
 type: news

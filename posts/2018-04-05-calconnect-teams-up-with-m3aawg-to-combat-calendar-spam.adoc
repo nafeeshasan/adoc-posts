@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: CalConnect teams up with M3AAWG to combat calendar spam
 date: 2018-04-05

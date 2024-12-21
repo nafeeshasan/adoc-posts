@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect publishes paper on the benefits of iCalendar for the Mobile Industry
 type: news

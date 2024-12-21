@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Roundtable discsussion on the future of interoperable calendaring and scheduling
 type: news

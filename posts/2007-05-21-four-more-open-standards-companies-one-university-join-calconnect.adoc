@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Four More Open-Standards Companies, One University Join CalConnect
 type: news

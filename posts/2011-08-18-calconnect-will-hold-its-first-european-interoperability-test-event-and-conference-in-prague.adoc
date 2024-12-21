@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect will hold its First European Interoperability Test Event and Conference in Prague
 type: news

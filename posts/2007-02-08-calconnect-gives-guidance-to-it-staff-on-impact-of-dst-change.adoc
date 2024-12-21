@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect Gives Guidance to IT Staff on Impact of DST Change
 type: news

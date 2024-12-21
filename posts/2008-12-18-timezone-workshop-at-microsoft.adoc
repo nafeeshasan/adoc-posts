@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect holds Timezone Workshop hosted by Microsoft
 type: news

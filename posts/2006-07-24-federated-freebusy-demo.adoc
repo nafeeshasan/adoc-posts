@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Federated Freebusy Demo with The Open Group
 type: news

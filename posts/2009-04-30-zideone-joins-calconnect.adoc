@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  ZideOne Joins CalConnect
 type: news

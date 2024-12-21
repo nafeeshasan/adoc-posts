@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  Apple Computer Announces Membership in CalConnect
 type: news

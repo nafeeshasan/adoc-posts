@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect applauds publication of CalDAV as RFC 4791 at the IETF
 type: news

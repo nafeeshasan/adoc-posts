@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  The University of Pennsylvania Joins CalConnect
 type: news

@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect calls on EU to reconsider timeline for proposed seasonal
 type: news

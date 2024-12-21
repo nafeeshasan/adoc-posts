@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title:  CalConnect Holds Second Mobile Calendaring and Scheduling Interoperability Test Event
 type: news
