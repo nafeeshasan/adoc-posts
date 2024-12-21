@@ -1,0 +1,150 @@
+---
+---
+layout: page
+title: Jorte Press Release about CalConnect XLII and JEDC
+date: 2018-05-29
+type: news
+categories:
+excerpt: Jorte, our host for CalConnect XLII in Tokyo next week, has issued a press release about CalConnect XLII and the Digital Calendaring Summit with JEDC, the Japan Event Data Consortium. A very free translation into English of an earlier draft of the press release is available at
+---
+:page-liquid:
+
+== Jorte Press Release about CalConnect XLII and JEDC
+
+Posted May 29, 2018
+
+http://www.jorte.com/en[Jorte], our host for link:{{'/events/.calconnect-xlii-june-04-08-2018' | relative_url}}[CalConnect XLII] in Tokyo next week, has issued a https://news.biglobe.ne.jp/economy/0528/atp_180528_0139083724.html[press release] about CalConnect XLII and the Digital Calendaring Summit with JEDC, the Japan Event Data Consortium. A very free translation into English of an earlier draft of the press release is available at
+
+https://www.calconnect.org/sites/default/files/media/JortePressRelease-redrafted-v2.1.pdf[JortePressRelease-redrafted-v2.1.pdf]
+
+
+
+CalConnect welcomes the opportunity to meet with the JEDC and discuss the issues of standardization of digital event data in Japan.
+
+
+
+1
+2
+Press release 
+Jorte Corpora-on 
+2018 May 17  
+Jorte to host the 42
+ⁿ,
+ mee.ng of CalConnect, the leading global producer of 
+digital calendaring & scheduling standards, in Tokyo on June 4-8, 2018   
+Jorte Corpora-on, (Head Oﬃce: Minato-ku, Tokyo, HCp://Www.Jorte.Com/) the 
+developer of the "Jorte - calendar and personal organizer", with 3,0000,000 
+downloads worldwide, and a member of the CalConnect consor-um, is 
+concurrently hos-ng the CalConnect mee-ng, and co-hos-ng the "Event 
+Informa-on U-liza-on Consor-um" (JEDC) " Digital Event Summit " which starts 
+on June 6
+XY
+. 
+ 
+CalConnect and the JDEC will meet on June 6
+XY
+ to discuss adop-on of uniﬁed 
+standards and the interna-onal distribu-on of the event informa-on and 
+delivery format in Japan. 
+The program for the June 6
+XY
+ “Digital Event Summit”: 
+1. Cabinet Secretariat Informa-on Communica-on Technology 
+Comprehensive Strategy Oﬃce Cabinet Counselor Eisuke Yamasudo, 
+"Open Data Policy in Japan" 
+2. Ministry of Internal Aﬀairs and Informa-on Distribu-on Administra-ve 
+Bureau Takao Ueno. "Open data eﬀorts at the Ministry of Internal Aﬀairs 
+and Communica-ons" 
+3. Sharp Corpora-on TV System Division Headquarters Matsumoto 
+Mitsuho / Horii Miho / Atsumi Tadayudo , "About Calendar Service 
+Approach for TV (Tenta-ve)" 
+4. Kuniyuki Kawashima Director COO of Jorte Co., Ltd. 
+"About the realiza-on of a uniﬁed standardized and interna-onal 
+distribu-on of the Japanese event informa-on delivery format." 
+5. CalConnect - Dave Thewlis, Execu-ve Director, "Introduc-on to 
+CalConnect"
+6. Spherical Cow Group - Mike Douglass / 1 & 1 - Thomas Schafer 
+“Calendaring and Scheduling standards and protocols overview”
+
+2
+3
+Ministry of Internal Aﬀairs and Communica-ons : 
+Eisaku YAMAJI
+Counsellor, Na-onal Strategy Oﬃce of Informa-on and Communica-ons 
+Technology, Cabinet Secretariat, Government of Japan
+Takahiro Ueno 
+Deputy Director, Advanced Informa-on Systems and Sokware Division, 
+Informa-on and Communica-ons Bureau, Ministry of Internal Aﬀairs and 
+Communica-ons (MIC)
+Yu Matsumoto
+Service Marke-ng Div. IoT Cloud Business Unit IoT BU Sharp Corpora-on 
+Tadamichi Atsumi
+Products Planning Div.1 Domes-c Business Unit TV Systems BU Sharp 
+Corpora-on 
+Miho Horii
+Products Planning Div.1 Domes-c Business Unit TV Systems BU Sharp 
+Corpora-onAtsumi Tadamichi, Sharp Corpora-on, TV System Division 
+Headquarters    
+Eisaku YAMAJI
+Counsellor, Na-onal Strategy Oﬃce of Informa-on and Communica-ons 
+Technology, Cabinet Secretariat, Government of Japan
+Takahiro Ueno 
+Deputy Director, Advanced Informa-on Systems and Sokware Division, 
+Informa-on and Communica-ons Bureau, Ministry of Internal Aﬀairs and 
+Communica-ons (MIC)
+Yu Matsumoto
+Service Marke-ng Div. IoT Cloud Business Unit IoT BU Sharp Corpora-on 
+Tadamichi Atsumi
+Products Planning Div.1 Domes-c Business Unit TV Systems BU Sharp 
+Corpora-on 
+Miho Horii
+Products Planning Div.1 Domes-c Business Unit TV Systems BU Sharp 
+Corpora-onAtsumi Tadamichi, Sharp Corpora-on, TV System Division 
+Headquarters    
+Jorte Corpora-on 
+Director, COO Kuniyuki Kawashima 
+Title: "About the realiza-on of a uniﬁed standardized and interna-onal 
+distribu-on of the Japanese event informa-on delivery format."
+
+3
+4
+ 
+<Overview> 
+Calconnect, more formally “The Calendaring and Scheduling Consor-um” is a 
+member-driven, non-proﬁt corpora-on of the leading developers of calendaring 
+& scheduling products and services, represen-ng research & educa-onal  
+ins-tu-ons, and North American, European and Asia/Paciﬁc IT companies, 
+ranging from small startups to the world’s largest IT organiza-ons. CalConnect 
+members gather three -mes a year to discuss current interoperability problems, 
+and to develop next genera-on open standards and services. 
+ 
+CalConnect mee-ngs are held all over the world, with previous mee-ng in 2018 
+January mee-ng Sunnyvale, California (hosted by Oauth- formerly Yahoo! and 
+Verizon), and upcoming mee-ngs in September 2018 in Karlsruhe Germany 
+(hosted by 1&1), and February 2019 in Zurich, Switzerland (hosted by Google).
+ 
+<CalConnect member list>
+hCp://www.calconnect.org/membership
+ 
+<Summary of the event> 
+Held period: June 4th to 8th, 2018 
+hCps://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018 
+ 
+Co-organizer event: "Digital Event Summit" 
+Wednesday, June 6, 2018 1 3: 00-16: 00 
+Social gathering: 1 8 : 00 - 20 : 00 
+Venue: Akasaka Minato-ku, Tokyo 7-2-21 Sogetsukaikan 2F 
+ 
+< Overview > 
+Jorte (free) hCp://www.jorte.com/#download 
+CalConnect (English) HCps://Www.Calconnect.Org/ 
+Event informa-on u-liza-on consor-um hCp://www.elab.gr.jp/ 
+ 
+< Inquiries concerning par-cipa-on, holding summary > 
+■ Joite plasorm Co., Ltd. promo-on group 
+TEL : 03-6804-6988 
+FAX : 03-6804-6999
+
+4
+MAIL : info@jorte.co.jp
+
