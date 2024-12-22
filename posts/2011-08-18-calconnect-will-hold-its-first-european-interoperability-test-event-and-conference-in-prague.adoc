@@ -23,13 +23,11 @@ Conference in Prague*
 _CalConnect XXII Focuses on Advancing Calendaring and Scheduling
 Standards for More Effective Business Communication_
 
-*August 18, 2011 – McKinleyville, Calif. –* CalConnect (The Calendaring
-and Scheduling Consortium; [.underline]#www.CalConnect.org#) will hold
-its first European conference in Prague, Czech Republic, on October 3-7,
-2011. The consortium is a partnership among leading technology
-organizations and universities to promote open standards and the
-interoperability of calendaring systems to give users more choices when
-it comes to devices and calendaring applications.
+*August 18, 2011 – McKinleyville, Calif. –* CalConnect (The Calendaring and Scheduling
+Consortium; www.CalConnect.org) will hold its first European conference in Prague, Czech
+Republic, on October 3-7, 2011. The consortium is a partnership among leading technology
+organizations and universities to promote open standards and the interoperability of calendaring
+systems to give users more choices when it comes to devices and calendaring applications.
 
 CalConnect XXII will feature interoperability testing events, symposia,
 meetings, and +
