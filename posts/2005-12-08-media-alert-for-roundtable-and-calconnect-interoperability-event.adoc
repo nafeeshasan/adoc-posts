@@ -67,50 +67,19 @@ and establishment of future goals and directions for the Consortium.
 Selected Technical Committees of CalConnect and summaries of their focus
 are as follows:
 
-[width="100%",cols="34%,33%,33%",options="header",]
+[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
 |===
-a|
-[width="100%",cols="50%,50%",options="header",]
-!===
-! !
-! !
-! !
-! !
-!===
+| TC-AUTHENTICATE
+| Assess Calendaring authentication and authorization issues and +
+develop recommendations 
 
-| |
-a|
-____
-[.underline]#TC-MOBILE#
-____
+| TC-CALDAV
+| Define Consortium requirements for CalDAV extensions to
+WebDAV 
 
-| a|
-____
-Develop recommendations for open standards-based Calendaring on mobile
-devices
-____
-
-|===
-
-[width="100%",cols="34%,33%,33%",options="header",]
-|===
-a|
-____
-[.underline]#TC-REALTIME#
-____
-
-| a|
-____
-Address realtime Server-Server Interoperability
-____
-
-a|
-[width="100%",cols="50%,50%",options="header",]
-!===
-! !
-!===
-
-| |
+| TC-EVENTPUB : 
+| Define and describe event publishing and how it differs from
+general scheduling 
 |===
 
 Interop and Roundtable Information: [.underline]#www.calconnect.org#
