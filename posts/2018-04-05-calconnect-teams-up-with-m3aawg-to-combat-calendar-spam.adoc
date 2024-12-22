@@ -109,44 +109,16 @@ developers and system operators to ensure legitimate usage of their
 platforms. The collaborative effort is important because calendar spam
 is unique as an abuse vector in a number of ways:
 
-[width="100%",cols="50%,50%",options="header",]
-|===
-a|
-•
-
-•
-
-•
-
-•
-
-a|
-
-Calendar spam, unlike email, can be placed chronologically anywhere in a
-calendar – in the past or the future, not just the present – making it
-difficult to detect at the time of delivery.
-
-Spam meeting invitations can be automatically added to calendars without
-the users’ consent with notifications sent to all their devices. These
-invitations are not only difficult to find but, in some cases, there is
-no way for the user to remove these events short of deleting the entire
-calendar.
-
-Calendar events and meeting invitations do not yet carry the rich
-provenance, i.e., the detailed header information that is included in
-email, making it difficult to ascertain where and when events originated
-and where they were delivered.
-
-Calendar events often contain notifications or alarms that are
-propagated across a user’s many desktop and mobile calendaring clients,
-exacerbating the problem.
-
-
-|===
-
-The Calendaring and Scheduling Consortium
-
-[.underline]#www.calconnect.org# +
+• Calendar spam, unlike email, can be placed chronologically anywhere in a calendar – in the past or
+the future, not just the present – making it difficult to detect at the time of delivery. +
+• Spam meeting invitations can be automatically added to calendars without the users’ consent with
+notifications sent to all their devices. These invitations are not only difficult to find but, in some
+cases, there is no way for the user to remove these events short of deleting the entire calendar. +
+• Calendar events and meeting invitations do not yet carry the rich provenance, i.e., the detailed
+header information that is included in email, making it difficult to ascertain where and when events
+originated and where they were delivered. +
+• Calendar events often contain notifications or alarms that are propagated across a user’s many
+desktop and mobile calendaring clients, exacerbating the problem. +
 
 *Taking on Calendar Spam, CalConnect Collaborates with M3AAWG* *2*
 
