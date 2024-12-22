@@ -115,7 +115,6 @@ A presentation describing the process and the demonstration may be found
 at: or
 
 *_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
-*_Page 3_*
 
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Consortium focuses on the interoperable exchange of calendaring and
