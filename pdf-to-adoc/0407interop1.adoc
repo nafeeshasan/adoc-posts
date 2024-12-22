@@ -49,7 +49,7 @@ the development and promotion of emerging open standards as well as the
 efforts of a number of standards bodies, including the IETF. These
 efforts help build momentum for the adoption of an open protocol to
 access and manage calendaring information.”
-
+["ditaa"]
 *Media Contact*                            *Consortium Contact* +
 Maryann Karinch +
 970-577-8500 +
