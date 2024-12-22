@@ -89,3 +89,19 @@ rules, the person needs to store the meeting as 13:00 UTC in order to have
 it show up as 9:00 am Eastern. 
 ____
 
+Recommendation: Systems that store date/times relative to the local time zone are not
+likely to be impacted, but products that support multiple time zones will require review.
+For third-party software, contact the vendor. For solutions developed in-house, look for
+date and time values stored as one field in a format relative to UTC. +
+
+Impact: Systems that store date/time values relative to UTC will display incorrect times
+within the extended DST period. This will affect events not only in 2007, and future
+years. +
+
+Some calendar systems store day-long events internally as midnight to midnight records.
+These may get shifted by one hour during the new DST weeks, causing the events to
+extend into the day after they were intended to finish. +
+
+Other unexpected behavior may occur with calendar systems that synchronize events
+between two or more types of devices, such as a computer and a smart phone. 
+
