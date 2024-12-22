@@ -171,10 +171,10 @@ interoperability, develop consensus, and evolve and integrate
 specifications and open source technologies, to offer a comprehensive
 set of services to enhance the operational efficiency of consortia; and
 to operate the industry’s premier certification service. Further
-information on The Open Group can be found at .
-
+information on The Open Group can be found at . +
+---
 # # #
-
+---
 *Note to Editors*: TOGAF and Boundaryless Information Flow are
 trademarks of The Open Group.
 
