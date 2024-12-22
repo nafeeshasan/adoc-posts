@@ -21,7 +21,7 @@ link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relati
 *McKinleyville, CA – November 14, 2005 –* Harvard Arts and Sciences
 Computer Services and have joined the Calendaring and Scheduling
 Consortium +
-() to bring the number of university members to twelve. This follows
+(www.calconnect.org) to bring the number of university members to twelve. This follows
 closely oM and Trumba to the roster of vendor members. CalConnect’s
 membership also includes open-source foundations and a research
 facility.
