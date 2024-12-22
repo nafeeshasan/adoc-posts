@@ -60,6 +60,7 @@ conflicts between their competing products.
 The Consortium has a schedule of activities that give the relevant
 standards commercial value, that is, promotion, requirements setting,
 and validation. Events on the agenda include +
+
 • Three to four interoperability testing events (“Interops”) a year, with
 the next one scheduled for January 11-12 in Seattle, WA. +
 
