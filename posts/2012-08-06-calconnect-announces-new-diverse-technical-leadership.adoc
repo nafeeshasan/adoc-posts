@@ -85,7 +85,7 @@ The Consortium develops recommendations for improvement and extension of
 relevant standards, develops requirements and use cases for calendaring
 and scheduling specifications, conducts interoperability testing for
 calendaring and scheduling implementations, and promotes calendaring and
-scheduling.
+scheduling.        234234234  
 
 Members are AOL, Apple, Ralf Becker, Cabo Communications, Carnegie
 Mellon, eM Client, Gershon Janssen, Google, Inc., IBM Corporation,
