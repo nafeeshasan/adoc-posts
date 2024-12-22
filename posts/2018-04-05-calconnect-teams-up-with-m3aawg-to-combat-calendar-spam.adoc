@@ -61,11 +61,11 @@ CalConnect (The Calendaring and Scheduling Consortium), https://www.calconnect.o
 Linda Marcus, APR, Astra Communications, +1-714-974-6356 (U.S. Pacific), mailto:LMarcus@Astra.cc[LMarcus@Astra.cc] +
 M3AAWG (Messaging, Malware and Mobile Anti-Abuse Working Group), https://www.m3aawg.org
 
-image:b98f7330f9134b32888a438ae3d092bc/media/image3.png[image,width=322,height=39]image:b98f7330f9134b32888a438ae3d092bc/media/image4.png[image]
+image:b98f7330f9134b32888a438ae3d092bc/media/image3.png[image,width=322,height=39]image:b98f7330f9134b32888a438ae3d092bc/media/image4.png[image] +
 
-image:b98f7330f9134b32888a438ae3d092bc/media/image1.png[image,width=209,height=46]
+image:b98f7330f9134b32888a438ae3d092bc/media/image1.png[image,width=209,height=46] +
 
-image:b98f7330f9134b32888a438ae3d092bc/media/image2.png[image,width=672]
+image:b98f7330f9134b32888a438ae3d092bc/media/image2.png[image,width=672] +
 
 *News Release - Jointly issued by CalConnect and M3AAWG [.underline]#For
 Immediate Release#*
