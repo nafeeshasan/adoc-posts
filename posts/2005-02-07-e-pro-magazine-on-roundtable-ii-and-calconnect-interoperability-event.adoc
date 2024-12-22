@@ -23,7 +23,7 @@ Magazine*
 
 by Chris Alan Miller
 
-The  https://www.calconnect.org[Calendaring and Scheduling Consortium], a.k.a. CalConnect, started showing last September, officially
+The  https://www.calconnect.org[Calendaring and Scheduling Consortium], a.k.a. CalConnect, started showing https://www.e-promag.com/article.cfm?id=5100[signs of life] last September, officially
 launched in mid-December, held its second interoperability event January
 11-13, and is now gearing up for a busy 2005.
 
