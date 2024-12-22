@@ -36,10 +36,8 @@ link:{{'/publications/CD0608%20The%20Open%20Group%20Federated%20Freebusy%20Chall
 
 *FOR IMMEDIATE RELEASE*
 
-____
 *The Open Group and The Calendaring and Scheduling Consortium Move
 Closer to Solving Free/Busy Problem*
-____
 
 *SAN FRANCISCO & MCKINLEYVILLE, Calif., July 24, 2006* – During The Open
 Group’s IT Architecture Practitioners Conference held last week at the
@@ -61,12 +59,12 @@ identify free/busy status for people from different organizations using
 different calendaring systems as an aid to scheduling joint activities,
 such as meetings and teleconferences.
 
-The specific objectives of the proof-of-concept project were: • a
-real-time mechanism; +
-• ability to extract and collate/display free/busy information; • at
-least three major calendaring systems; +
-• +
-open standard protocols; and • can be implemented today.
+The specific objectives of the proof-of-concept project were: +
+• a real-time mechanism; +
+• ability to extract and collate/display free/busy information; + 
+• at least three major calendaring systems; +
+• open standard protocols; and +
+• can be implemented today. +
 
 “Our members identified the need for a simple mechanism to see when a
 group of people would be available for a meeting, whether within or
@@ -74,7 +72,6 @@ outside of their companies,” said Allen Brown, president and CEO, The
 Open Group. “The members of CalConnect and The Open Group came together
 to meet that challenge.”
 
-____
 *_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
 *_Page 2_*
 
@@ -117,7 +114,6 @@ functionality and applicability of the solutions.
 
 A presentation describing the process and the demonstration may be found
 at: or
-____
 
 *_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
 *_Page 3_*
