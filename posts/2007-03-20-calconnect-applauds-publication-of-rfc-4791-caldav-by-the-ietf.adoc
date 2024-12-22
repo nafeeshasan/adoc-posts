@@ -89,6 +89,7 @@ OSAF  +
 our Chandler™ desktop client and our server product. We are pleased to see steady
 progress and increasing adoption of CalDAV. Calendaring adoption is really subject to
 'network effects'; with more adoption, the more valuable the standards become." +
++
 Gary Schwartz +
 Director Communications & Middleware Technologies +
 Rensselaer Polytechnic Institute +
