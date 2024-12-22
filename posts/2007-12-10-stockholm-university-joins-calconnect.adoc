@@ -19,7 +19,6 @@ number of participating organizations to 40:
 link:{{'/docs/Stockholm%20University%20Joins%20CalConnect%20final.doc' | relative_url }}[Stockholm
 University Joins CalConnect]
 
-____
 *Stockholm University Joins US-Based Calendaring and Scheduling
 Consortium* _Membership Marks CalConnect’s Growth in the International
 Arena_
@@ -68,6 +67,4 @@ Ericsson, Stanford University, Stockholm University, Sun Microsystems,
 Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley, University of
 Chicago, University of Michigan, University of Pennsylvania, University
 of Washington, University of Wisconsin, Yahoo! Inc., Zimbra.
-____
-
 
