@@ -16,7 +16,7 @@ release issued by the Consortium following the July 29-30 2004 Event.
 link:{{'/docs/press-releases/0407interop1.pdf' | relative_url }}[CalConnect
 Interoperability Event Publicity Release].
 
-____
+---
 *Industry Leaders Score at Calendaring and Scheduling Interop*
 
 _IBM, Oracle Demonstrate Conformance with Key Parts of IETF
@@ -77,6 +77,6 @@ Maryann Karinch +
 Dave Thewlis +
 707-840-9391 +
 [.underline]#dave.thewlis@calconnect.org#
-____
+---
 
 
