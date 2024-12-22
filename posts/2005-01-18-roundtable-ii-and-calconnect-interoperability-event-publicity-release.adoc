@@ -19,7 +19,6 @@ and the companion January 11-12 2005 Interop.
 link:{{'/docs/press-releases/050111roundtable2.pdf' | relative_url }}[Roundtable II
 Publicity Release].
 
-____
 *Calendaring and Scheduling Consortium Interop Features IETF
 Specifications* _Oracle, Mozilla, Isamet, and U. of Washington
 Participate in Tests_
@@ -86,6 +85,5 @@ Madison, and Yahoo! Inc. Launched December 2004, the Consortium will
 hold a series of interoperability testing events, Roundtables and
 Technical Committee meetings to achieve its objectives within a
 five-year time frame.
-____
 
 
