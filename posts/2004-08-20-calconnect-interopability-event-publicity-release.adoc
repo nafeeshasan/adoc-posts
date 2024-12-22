@@ -19,13 +19,13 @@ Interoperability Event Publicity Release].
 *Industry Leaders Score at Calendaring and Scheduling Interop*
 
 _IBM, Oracle Demonstrate Conformance with Key Parts of IETF
-Specification; Interoperability Testing Highlights Need for Well-Focused
-Consortium_
+Specification; + Interoperability Testing Highlights Need for Well-Focused
+Consortium +
 
 *Berkeley, CA – August 20, 2004 –* On July 29-30, the University of
 California at Berkeley hosted the first calendaring consortium-sponsored
-testing event on the interoperable exchange of calendaring and
-scheduling information between dissimilar programs, platforms, and +
+testing event on the interoperable exchange of + 
+calendaring and scheduling information between dissimilar programs, platforms, and +
 technologies.
 
 “UC Berkeley has long depended on and fostered the use and development
