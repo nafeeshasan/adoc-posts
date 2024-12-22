@@ -169,9 +169,8 @@ set of services to enhance the operational efficiency of consortia; and
 to operate the industry’s premier certification service. Further
 information on The Open Group can be found at http://www.opengroup.org. +
 
----
 # # # # +
----
+
 *Note to Editors*: TOGAF and Boundaryless Information Flow are
 trademarks of The Open Group.
 
