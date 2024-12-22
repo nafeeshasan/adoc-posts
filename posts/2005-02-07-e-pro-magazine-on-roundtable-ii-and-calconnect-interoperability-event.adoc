@@ -50,7 +50,8 @@ scheduling information across the Internet.
 
 In addition to the testing, 32 participants representing 16
 organizations, worked together to create a game plan and method for
-building momentum, including how to best work with the . During
+building momentum, including how to best work with the http://www.ietf.org[e Internet Engineering Task Force
+(IETF)] . During
 roundtable meetings, both technical and strategic, participants worked
 to determine which features of iCalendar are commonly implemented and
 need to be in a simplified iCalendar specification that can actually be
