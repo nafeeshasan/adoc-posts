@@ -1,7 +1,7 @@
 *Industry Leaders Score at Calendaring and Scheduling Interop*
 
-_IBM, Oracle Demonstrate Conformance with Key Parts of IETF
-Specification; Interoperability Testing Highlights Need for Well-Focused
+_IBM, Oracle Demonstrate Conformance with Key Parts of IETF Specification; 
+Interoperability Testing Highlights Need for Well-Focused
 Consortium_
 
 *Berkeley, CA – August 20, 2004 –* On July 29-30, the University of
@@ -49,12 +49,7 @@ efforts of a number of standards bodies, including the IETF. These
 efforts help build momentum for the adoption of an open protocol to
 access and manage calendaring information.”
 
-*Media Contact* +
-Maryann Karinch +
-970-577-8500 +
-[.underline]#maryann@karinch.com#
-
-*Consortium Contact* +
-Dave Thewlis +
-707-840-9391 +
-[.underline]#dave.thewlis@calconnect.org#
+*Media Contact*                                       *Consortium Contact* +
+Maryann Karinch                                        Dave Thewlis +
+970-577-8500                                           707-840-9391 +
+[.underline]#maryann@karinch.com#                      [.underline]#dave.thewlis@calconnect.org# +
