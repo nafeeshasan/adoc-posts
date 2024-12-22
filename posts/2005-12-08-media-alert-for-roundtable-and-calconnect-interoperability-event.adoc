@@ -28,7 +28,7 @@ This event reflects the Consortium’s ability to stay on target to
 produce interoperable calendaring and scheduling solutions within five
 years of inception.
 
-[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
+[width="100%",cols="50%,50%",frame="none",grid="none",border="none",align="left"]
 |===
 | Date: +
 Sponsor: +
