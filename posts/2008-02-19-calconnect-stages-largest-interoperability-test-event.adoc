@@ -22,7 +22,6 @@ CalConnect Mobile Calendaring Interoperabilty Test Event:
 link:{{'/docs/press-releases/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc' | relative_url }}[CalConnect
 Stages Largest Interoperabiity Test Event].
 
-____
 *CalConnect Testing Event Largest Ever; Mobile Interop Tests Set
 Precedent*
 
@@ -83,6 +82,5 @@ Symbian, Synchronica, TimeBridge, Trumba, UC
 Berkeley, University of Chicago, University of Michigan, University of
 Pennsylvania, University of Washington, University of Wisconsin, Yahoo!
 Inc., Zimbra.
-____
 
 
