@@ -17,7 +17,6 @@ to mark its public launch.
 link:{{'/docs/press-releases/041214publiclaunch.pdf' | relative_url }}[Public Launch
 Release].
 
-____
 *Top Vendors, Users Launch Calendaring and Scheduling Consortium* _Goal:
 End the Problem of Incompatible Calendaring and Scheduling Products_
 
@@ -129,6 +128,6 @@ all of us set interoperability standards and system features, and
 communicate them to potential vendors.”
 
 Contact: Maryann Karinch, 970-577-8500, maryann@karinch.com
-____
+
 
 
