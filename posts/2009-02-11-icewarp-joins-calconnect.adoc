@@ -21,9 +21,12 @@ Joins CalConnect].
 *IceWarp Joins US-Based Calendaring and Scheduling Consortium*
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*– February 11, 2009 –* The Caluling Consortium ) has announced that
-IceWarp has become one of the mpanies, and 2 open-source ore up the
-consortium.
+*– February 11, 2009 –* The Calendaring and Scheduling Consortium
+(www.calconnect.org) has announced that IceWarp (www.icewarp.com) has become one of the
+14 universities, 21 companies, and 2 open-source organizations that make up the consortium.
+Headquartered in the Washington, D.C. Metro Area, IceWarp has its development center in
+Europe (Prague) and technical teams are located on both sides of the Atlantic.
+
 
 Headquartered in the Washington, D.C. Metro Area, IceWarp has its
 development center in Europe (Prague) and technical teams are located on
