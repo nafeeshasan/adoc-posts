@@ -73,8 +73,7 @@ Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
 Fresno State, Google, IBM, Kerio Technologies, MailSite, Marware,
 Microsoft, +
 Mirapoint, MIT, Mozilla Foundation, New York University, Open Connector
-Groupware, +
-Open Source Applications Foundation, Oracle, PeopleCube, Princeton University,
+Groupware, Open Source Applications Foundation, Oracle, PeopleCube, Princeton University,
 Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford University, Sun
 Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley, University of
 Chicago, University of Michigan, University of Pennsylvania, University of Washington,
