@@ -20,7 +20,7 @@ Problems* _Participants Cite Specific Value in Terms of Product
 Development_
 
 *June 30, 2005 –* The Calendaring and Scheduling Consortium +
-() today announced the results of its fourth interoperability testing
+(http://www.calconnect.org) today announced the results of its fourth interoperability testing
 event and r at Duke University. Participants were Isamet, The Mozilla
 Foundation, Novell, Oracle, and Rensselaer Polytechnic Institute (RPI),
 who tested against the current draft of the CalDAV specification of the
@@ -92,7 +92,7 @@ advanced, to the benefit of both users and developers, through these
 interops,” said Gary Schwartz, Director, Communication & Collaboration
 Technologies.
 
-*The Calendaring and Scheduling Consortium* ()
+*The Calendaring and Scheduling Consortium* (http://www.calconnect.org[www.calconnect.org])
 
 The Consortium focuses on the interoperable exchange of calendaring and
 scheduling +
