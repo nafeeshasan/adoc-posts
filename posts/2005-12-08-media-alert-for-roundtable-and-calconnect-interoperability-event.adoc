@@ -77,9 +77,29 @@ develop recommendations
 | Define Consortium requirements for CalDAV extensions to
 WebDAV 
 
-| TC-EVENTPUB : 
+| TC-EVENTPUB
+|Support Interops, develop test suites, reference implementation,
+identify areas to test 
+
+
+| TC-IOPTEST 
 | Define and describe event publishing and how it differs from
 general scheduling 
+
+| TC-MOBILE  
+| Develop recommendations for open standards-based Calendaring
+on mobile devices
+
+| TC-REALTIME   
+| Address realtime Server-Server Interoperability
+
+| TC-TIMEZONE
+| Define and develop proposals for Timezone provisioning and
+possible Timezone registry and service 
+
+| TC-USECASE
+| Develop Use Cases & Terminology 
+
 |===
 
 Interop and Roundtable Information: [.underline]#www.calconnect.org#
