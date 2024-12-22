@@ -20,7 +20,6 @@ organization to 35 companies, universities, and research facilities:
 link:{{'/docs/press-releases/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May
 Release].
 
-____
 *Four More Open-Standards Companies, One University Join CalConnect* +
 _Princeton, Scalix, Sun Microsystems, Synchronica, Zimbra Add Clout To
 Fast-Growing_
@@ -72,6 +71,6 @@ Polytechnic Institute, Rockliffe, Scalix, Stanford University, Sun
 Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley,
 University of Chicago, University of Washington, University of
 Wisconsin, Yahoo! Inc., Zimbra.
-____
+
 
 
