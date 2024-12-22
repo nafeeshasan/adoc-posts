@@ -75,7 +75,7 @@ the January 2005 event. In addition, there will be testing of iCalendar
 standards by vendors who have implemented the protocols and want to test
 their applications with other vendors.
 
-If you're interested in learning more or getting involved, check out .
+If you're interested in learning more or getting involved, check out  http://www.calconnect.org.
 
 image:5f0ed13d9be44716b15c694cb87fe6c4/media/image1.png[image,width=364]
 
