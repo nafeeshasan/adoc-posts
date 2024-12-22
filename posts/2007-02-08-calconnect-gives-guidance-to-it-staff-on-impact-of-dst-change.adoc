@@ -69,6 +69,23 @@ e-mail messages may have incorrect time stamps or have their time stamps
 incorrectly interpreted.
 
 Systems using older versions of Kerberos authentication may not work, as
-they require clocks to be synchronized to within a few minutes.
+they require clocks to be synchronized to within a few minutes. +
 
+Automated Processes that run at a preset time, such as unlocking a door, may happen an
+hour later than expected. +
+
+2. Stored date/time values +
+Issue: Many computer systems need to represent future dates and times. There may be a
+need to correct some of these to accommodate the new DST rules. +
+In particular, if the system stores the date and time as a combined value that is relative to
+UTC, the data in the system may be off by an hour for the weeks that used to be in
+Standard time, but are now in DST. For example, +
+
+____
+If a person in the Eastern time zone entered a repeating meeting for 9:00
+am Monday, it would be stored as 14:00 UTC for weeks outside of DST
+and 13:00 UTC for weeks inside DST.. With the onset of the 2007 DST
+rules, the person needs to store the meeting as 13:00 UTC in order to have
+it show up as 9:00 am Eastern. 
+____
 
