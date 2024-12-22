@@ -109,9 +109,14 @@ Polytechnic Institute, Stanford University, Symbian, UC Berkeley,
 University of Washington, University of Wisconsin Madison, and Yahoo!
 Inc. Launched December 2004, the Consortium will hold a series of
 interoperability testing events, Roundtables and Technical Committee
-meetings to achieve its objectives within a five-year time frame.
+meetings to achieve its objectives within a five-year time frame.  +
 
-Media Contact Consortium Contact Maryann Karinch Dave Thewlis
-970-577-8500 707-840-9391
+Media Contact  +
+Maryann Karinch  +
+970-577-8500  +
+
+Consortium Contact  +  
+Dave Thewlis  +
+707-840-9391  +
 
 
