@@ -81,7 +81,6 @@ to provide mechanisms to allow calendaring and scheduling methodologies
 to interoperate, and to promote broad understanding of these
 methodologies so that calendaring and scheduling tools and applications
 can enter the mainstream of computing.
-
 The Consortium develops recommendations for improvement and extension of
 relevant standards, develops requirements and use cases for calendaring
 and scheduling specifications, conducts interoperability testing for
