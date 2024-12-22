@@ -178,15 +178,13 @@ information on The Open Group can be found at http://www.opengroup.org. +
 *Note to Editors*: TOGAF and Boundaryless Information Flow are
 trademarks of The Open Group.
 
-*CalConnect Media Contact*: Maryann Karinch, , 970-577-8500 *CalConnect
-Contact*: Dave Thewlis, , 707-840-9391
+*CalConnect Media Contact*: Maryann Karinch, maryann@karinch.com, 970-577-8500 +
+*CalConnect Contact*: Dave Thewlis, dave.thewlis@calconnect.org, 707-840-9391
 
 *_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
 *_Page 4_*
 
 *Open Group Media Contact:* Fred Bateman, The Bateman Group,
-fbateman@bateman-
-
-group.com, 415-503-1818, ext. 13
+fbateman@bateman-group.com, 415-503-1818, ext. 13
 
 
