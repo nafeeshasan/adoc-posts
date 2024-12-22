@@ -20,21 +20,16 @@ https://www.calconnect.org/sites/default/files/media/JortePressRelease-redrafted
 
 CalConnect welcomes the opportunity to meet with the JEDC and discuss the issues of standardization of digital event data in Japan.
 
-
-
-____
 Press release
 
 Jorte Corpora-on +
-2018May17
-____
+2018May17 +
 
 *Jorte to host the 42ⁿ, mee.ng of CalConnect, the leading global
 producer of*
 
-*digital calendaring & scheduling standards, in Tokyo on June 4-8, 2018*
+*digital calendaring & scheduling standards, in Tokyo on June 4-8, 2018* +
 
-____
 Jorte Corpora-on, (Head Office: Minato-ku, Tokyo,) the developer of the
 "Jorte - calendar and personal ,000 downloads worldwide, and a member of
 the CalConnect consor-um, is concurrently hos-ng the CalConnect mee-ng,
@@ -62,12 +57,10 @@ distribu-on of the Japanese event informa-on delivery format." +
 5. CalConnect - Dave Thewlis, Execu-ve Director, "Introduc-on to
 CalConnect" +
 6. Spherical Cow Group - Mike Douglass / 1 & 1 - Thomas Schafer +
-“Calendaring and Scheduling standards and protocols overview”
-____
+“Calendaring and Scheduling standards and protocols overview” +
 
-1
+1 +
 
-____
 Ministry of Internal Affairs and Communica-ons : +
 *_Eisaku YAMAJI_* +
 Counsellor, Na-onal Strategy Office of Informa-on and Communica-ons
@@ -104,12 +97,10 @@ Headquarters +
 Jorte Corpora-on +
 Director, COO Kuniyuki Kawashima +
 Title: "About the realiza-on of a unified standardized and interna-onal
-distribu-on of the Japanese event informa-on delivery format."
-____
+distribu-on of the Japanese event informa-on delivery format." +
 
-2
+2  +
 
-____
 <Overview> +
 Calconnect, more formally “The Calendaring and Scheduling Consor-um” is
 a member-driven, non-profit corpora-on of the leading developers of
@@ -118,17 +109,12 @@ educa-onal ins-tu-ons, and North American, European and Asia/Pacific IT
 companies, ranging from small startups to the world’s largest IT
 organiza-ons. CalConnect members gather three -mes a year to discuss
 current interoperability problems, and to develop next genera-on open
-standards and services.
-____
+standards and services. +
 
 CalConnect mee-ngs are held all over the world, with previous mee-ng in
-2018
+2018 +
 
-____
-January mee-ng Sunnyvale, California (hosted by Oauth- formerly Yahoo!
-and
-
-Verizon), and upcoming mee-ngs in September 2018 in Karlsruhe Germany
+January mee-ng Sunnyvale, California (hosted by Oauth- formerly Yahoo! and Verizon), and upcoming mee-ngs in September 2018 in Karlsruhe Germany
 
 (hosted by 1&1), and February 2019 in Zurich, Switzerland (hosted by
 Google).
@@ -152,15 +138,12 @@ Event informa-on u-liza-on consor-um
 < Inquiries concerning par-cipa-on, holding summary > ■ Joite plasorm
 Co., Ltd. promo-on group +
 TEL : 03-6804-6988 +
-FAX : 03-6804-6999
-____
+FAX : 03-6804-6999 +
 
-3
+3 +
 
-____
-MAIL :
-____
+MAIL : +
 
-4
+4 +
 
 
