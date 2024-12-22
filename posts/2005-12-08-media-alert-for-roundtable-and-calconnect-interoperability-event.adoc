@@ -28,20 +28,20 @@ This event reflects the Consortium’s ability to stay on target to
 produce interoperable calendaring and scheduling solutions within five
 years of inception.
 
-[width="100%",cols="50%,50%",frame="none",grid="none",border="none",align="left"]
+[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
 |===
-| Date: +
-Sponsor: +
-Host and Location: 
-| Description: +
-____
-Interop: January 9-10, 2006 +
-Roundtable: January 10-12, 2006 +
-Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#) +
-Novell, Inc., 1860 South Novell Place, Building H, +
+| Date: 
+| Interop: January 9-10, 2006 +
+Roundtable: January 10-12, 2006
+
+| Sponsor: 
+| Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#)
+
+| Host and Location: 
+| Novell, Inc., 1860 South Novell Place, Building H, +
 Executive Briefing Center, Provo, Utah
-____
 |===
+
 
 The Interop, open to members and non-members, will comprise multiple
 scenarios including CalDAV server and client testing, Min-IOP testing,
