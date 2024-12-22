@@ -73,7 +73,7 @@ for more information and to sign up for the discussion list.
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
 among vendors, developers, and customers to advance calendaring and
-scheduling standards and +
+scheduling standards and 
 implementations. The mission is to provide mechanisms to allow
 calendaring and scheduling methodologies to interoperate, and to promote
 broad understanding of these methodologies so that calendaring and scheduling tools and applications can enter the
