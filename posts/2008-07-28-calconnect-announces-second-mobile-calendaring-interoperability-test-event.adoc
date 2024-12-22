@@ -73,6 +73,22 @@ interoperate, and to promote broad understanding of these methodologies
 so that calendaring and scheduling tools and applications can enter the
 mainstream of computing. The Consortium develops recommendations for
 improvement and extension of relevant standards, develops requirements
-and use cases for calendaring
+and use cases for calendaring and scheduling specifications, conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling. Organizational members are Apple,
+Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno State, Google, IBM, Kerio Technologies,
+MailSite, Marware, Microsoft, Mirapoint, MIT, Mozilla Foundation, New York University, Open Source
+Applications Foundation, Oracle, PeopleCube, Princeton University, Rensselaer Polytechnic Institute,
+Scalix, Sony Ericsson, Stanford University, Stockholm University, Sun Microsystems, Symbian,
+Synchronica, TimeBridge, Trumba, UC Berkeley, University of Chicago, University of Michigan, University
+of Pennsylvania, University of Washington, University of Wisconsin, Yahoo! Inc., Zimbra. +
+
+*Kerio Technologies, Inc. (www.kerio.com)*
+Innovative in Internet security since 1997, Kerio Technologies, Inc. provides Internet messaging and
+firewall software for small-to-medium sized businesses and organizations worldwide. Kerio is
+headquartered in San Jose, California, and has offices in Great Britain, the Czech Republic and Russia.
+Kerio is a member of CalConnect, a calendaring and scheduling consortium, and a premier member of
+the Apple Developer Connection. The company has more than500 business partners in 82 countries.
+Technology partners include McAfee, Inc. (NYSE: MFE), IBM Corporation (NYSE: IBM), and Notify
+Technology Corporation (OTCBB: NTFY). For more information, please visit www.kerio.com. 
 
 
