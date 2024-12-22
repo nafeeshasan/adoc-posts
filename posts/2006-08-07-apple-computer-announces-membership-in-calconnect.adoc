@@ -59,7 +59,7 @@ Dartmouth, Duke University, EVDB, Fresno State, Harvard ASCS, IBM, Jet
 Propulsion Lab, MIT, Mozilla +
 Foundation, New York University, Novell, Open Source Applications
 Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
-Institute, Stanford University, +
+Institute, Stanford University,
 Symbian, TimeBridge, Trumba, UC Berkeley, University of Chicago,
 University of Washington, University of Wisconsin, Yahoo! Inc.
 
