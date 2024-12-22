@@ -18,7 +18,6 @@ participating organizations to 39:
 link:{{'/docs/press-releases/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft
 Joins CalConnect.doc]
 
-____
 *Microsoft Joins CalConnect to Focus on Global Time-Zone Solution*
 
 *November 1, 2007 –* The Calendaring and S has announced that Microsoft
@@ -77,7 +76,6 @@ Fresno State, Google, IBM, Kerio Technologies, MailSite, Marware,
 Microsoft, +
 Mirapoint, MIT, Mozilla Foundation, New York University, Open Connector
 Groupware,
-____
 
 and scheduling specifications, conducts interoperability testing for
 calendaring and scheduling implementations, and promotes calendaring and
