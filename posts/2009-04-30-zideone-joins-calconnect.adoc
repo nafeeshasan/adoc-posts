@@ -20,10 +20,10 @@ Joins CalConnect].
 
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*McKinleyville, CA – April 29, 2009 –* The Calenda Consortium +
-) has announced that ZideOne has become one of the mpanies, and 2
-open-source ore up the consortium. ZideOne is headquartered in
-Magdeburg, Germany.
+*McKinleyville, CA – April 29, 2009 –* The Calendaring and Scheduling Consortium
+(www.calconnect.org) has announced that ZideOne (www.zideone.com) has become one of the
+13 universities, 23 companies, and 2 open-source organizations that make up the consortium.
+ZideOne is headquartered in Magdeburg, Germany.
 
 ZideOne participated in CalConnect’s “Meet CalConnect” event in Prague,
 Czech Republic.
@@ -63,7 +63,6 @@ implementations. The mission is to provide mechanisms to allow
 calendaring and scheduling methodologies to interoperate, and to promote
 broad understanding of these methodologies so that calendaring and
 scheduling tools and applications can enter the mainstream of computing.
-
 The Consortium develops recommendations for improvement and extension of
 relevant standards, develops requirements and use cases for calendaring
 and scheduling specifications, conducts interoperability testing for
