@@ -1,0 +1,56 @@
+____
+Maryann Karinch +
+CalConnect +
+970-577-8500 +
+maryann@karinch.com
+
+Joan Fronske +
+Kerio Technologies, Inc.
+
+408-496-3346
+
+*Kerio Technologies To Host CalConnect’s Mobile Calendaring and
+Scheduling Interoperability Testing Event in Europe*
+____
+
+_Limited Number of Slots Still Available for November 2008 Event in
+Kerio’s Czech Republic Office_
+
+July 28, 2008 - The Calendaring and Scheduling Consortium will hold its
+second Mobile Calendaring Interoperability Test Event on November 4-6,
+2008 at Kerio Technologies offices in the Czech Republic. The following
+CalConnect members have expressed a decided interest in participation in
+a series of interoperability tests focused on mobile calendaring data
+exchange: IBM, Kerio Technologies, Inc., Microsoft, Scalix, Sony
+Ericsson, Symbian, and Synchronica.
+
+“There are significant challenges in mobile calendaring today,” said
+Dave Thewlis, CalConnect’s Executive Director. “The synchronization
+protocols used to ‘sync’ mobile device data are not sensitive to the
+validity of the data, only the data were transmitted successfully. As a
+result, regular synchronization testing cannot detect or resolve
+application-level errors. CalConnect’s Mobile Calendar Interoperability
+Test Suite has been developed to simplify testing of the real calendar
+data, and the capabilities of different mobile devices. It will test
+what calendaring data the mobile devices receive and deliver data to the
+user.”
+
+Participation is open to non-members as well as members ohe
+interoperntact Dave Thewlis or Chris Dudding .
+
+CalConnect will also hold a regular (non-mobile) interoperability test
+event as an adjunct to its Roundtable members’ meeting on October 6-10,
+2008 at Yahoo! in Sunnyvale, California. Non-members wishing to
+participate or observe should contact Dave Thewlis. More details on the
+event can be found at the CalConnect website beginning in early August.
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and implementations. The mission is to provide
+mechanisms to allow calendaring and scheduling methodologies to
+interoperate, and to promote broad understanding of these methodologies
+so that calendaring and scheduling tools and applications can enter the
+mainstream of computing. The Consortium develops recommendations for
+improvement and extension of relevant standards, develops requirements
+and use cases for calendaring

@@ -1,0 +1,54 @@
+____
+*CalConnect Applauds Publication of IETF CalDAV Proposed Standard*
+
+*McKinleyville, CA – March 20, 2007* – “CalDAV is the first full open
+standard protocol for calendaring and scheduling client/server systems,”
+said Dave Thewlis, Executive Director of the Calendaring and Scheduling
+Consortium (CalConnect) in response to the Internet Engineering Task
+Force (IETF) publication of the _Calendaring Extensions to WebDAV
+(CalDAV)_ as a Proposed Standard. “It provides the basis for true open +
+calendaring between individuals and organizations.” +
+IETF published RFC 4791 on March 16, 2007; IETF Proposed Standards are
+called RFCs (Requests for Comments).
+
+CalConnect has determined that CalDAV will offer a significant new
+benefit to implementers and customers of calendaring systems. CalConnect
+has led the way in CalDAV interoperability testing with several of its
+members actively developing their own CalDAV products, as well as
+providing input into the development of the specification itself.
+
+“Calendaring and scheduling systems are starting to be built around
+CalDAV servers and clients, both desktop and browser-based, offering a
+low-cost, interoperable calendaring and scheduling facility to any ISP
+or business,” Thewlis continued. “So in our efforts to promote
+interoperable calendaring, the publication of this standard by the IETF
+is a watershed event.” +
+CalConnect asserts that CalDAV will be important for several key
+reasons. First and foremost, it is an open standard built upon much of
+the preceding work in +
+calendaring and scheduling standards. CalDAV implementations have been
+built as the standard itself developed and these efforts have helped to
+refine it. In addition, vendors are building calendaring solutions based
+on CalDAV into products other than mainstream calendar applications,
+such as project management tools. This all bodes well for wide adoption
+of this standard within the industry.
+
+“In the future CalConnect will continue to host regular CalDAV
+interoperability events along with its usual calendar interoperability
+testing, and will continue to promote and develop the standard and use
+of it, in important areas such as mobile devices,” Thewlis noted.
+
+_CalDAV at Work_ +
+A number of CalConnect members have advanced the implementation of
+CalDAV in their work, specifically, Apple, Marware, Mozilla Foundation,
+Open Source Applications Foundation, Oracle, and Rensselaer Polytechnic
+Institute.
+
+Maria Martin +
+Chief Operating Officer +
+Marware +
+“Marware is a proud supporter of the CalConnect consortium, and their
+work on +
+CalDAV. We have integrated CalDAV support into an upcoming release of
+our Project X project management application for Mac OS X.”
+____
