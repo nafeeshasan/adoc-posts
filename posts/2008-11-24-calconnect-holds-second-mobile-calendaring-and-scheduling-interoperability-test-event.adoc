@@ -26,7 +26,7 @@ Interoperability Testing*
 
 *_Kerio Technologies Hosted Test Event in Czech Republic_*
 
-*November 24, 2008 -* The Calendaring and Scheduling Consortium () held
+*November 24, 2008 -* The Calendaring and Scheduling Consortium ((www.calconnect.org) held
 its second Mobile Calendaring Interoperability Test Event (C.I.T.E.) 08
 at Kerio Technologies offices in the Czech Republic. Icewarp, Kerio,
 Oracle, Symbian, and Synthesis participated, indicating the growing role
