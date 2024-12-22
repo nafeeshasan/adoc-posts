@@ -77,9 +77,7 @@ Mirapoint, MIT, Mozilla Foundation, New York University, Open Connector
 Groupware, Open Source Applications Foundation, Oracle, PeopleCube,
 Princeton University, Rensselaer Polytechnic Institute, Scalix, Sony
 Ericsson, Stanford University, Stockholm University, Sun Microsystems,
-Symbian, Synchronica, TimeBridge, Trumba, UC
-
-Berkeley, University of Chicago, University of Michigan, University of
+Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley, University of Chicago, University of Michigan, University of
 Pennsylvania, University of Washington, University of Wisconsin, Yahoo!
 Inc., Zimbra.
 
