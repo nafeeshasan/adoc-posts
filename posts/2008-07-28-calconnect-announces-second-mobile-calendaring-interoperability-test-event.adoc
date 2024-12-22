@@ -20,7 +20,6 @@ November 4-6, 2008, in the Czech Republic, hosted by Kerio Technologies:
 link:{{'/docs/press-releases/080728%20CalConnect%20Mobile%20IOP%20Test%20Event.doc' | relative_url }}[CalConnect
 Mobile Interoperabiilty Test Event].
 
-____
 Maryann Karinch +
 CalConnect +
 970-577-8500 +
@@ -33,7 +32,6 @@ Kerio Technologies, Inc.
 
 *Kerio Technologies To Host CalConnect’s Mobile Calendaring and
 Scheduling Interoperability Testing Event in Europe*
-____
 
 _Limited Number of Slots Still Available for November 2008 Event in
 Kerio’s Czech Republic Office_
