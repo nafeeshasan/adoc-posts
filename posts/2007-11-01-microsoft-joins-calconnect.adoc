@@ -20,11 +20,9 @@ Joins CalConnect.doc]
 
 *Microsoft Joins CalConnect to Focus on Global Time-Zone Solution*
 
-*November 1, 2007 –* The Calendaring and S has announced that Microsoft
-Corporation ( Through the non-profit consortium, Microswith
-universities, research facilities, and other technology companies to
-define a formal time zone registry and online time zone service similar
-to the Network Time Protocol.
+*McKinleyville, CA – November 1, 2007 –* The Calendaring and Scheduling Consortium(www.CalConnect.org) has announced that Microsoft Corporation (www.microsoft.com) has joined CalConnect. Through the non-profit consortium, Microsoft is collaborating
+with universities, research facilities, and other technology companies to define a formal
+time zone registry and online time zone service similar to the Network Time Protocol.
 
 CalConnect’s work in the area of time zones has involved both public
 education and assistance towards resolution of technical problems
