@@ -19,7 +19,6 @@ and hosted by Oracle.
 link:{{'/docs/press-releases/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity
 Release].
 
-____
 *Top Vendors, Users Act to End Problem of Incompatible Calendaring and
 Scheduling Products*
 
@@ -70,6 +69,6 @@ Maryann Karinch +
 Dave Thewlis +
 707-840-9391 +
 [.underline]#dave.thewlis@calconnect.org#
-____
+
 
 
