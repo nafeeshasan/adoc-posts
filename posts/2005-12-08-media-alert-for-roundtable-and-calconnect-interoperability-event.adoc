@@ -28,19 +28,19 @@ This event reflects the Consortium’s ability to stay on target to
 produce interoperable calendaring and scheduling solutions within five
 years of inception.
 
-[width="100%",cols="50%,50%",options="header",]
+[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
 |===
-|Date: +
+| Date: +
 Sponsor: +
-Host and Location: Description: a|
+Host and Location: 
+| Description: +
 ____
 Interop: January 9-10, 2006 +
 Roundtable: January 10-12, 2006 +
-Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#)
-Novell, Inc., 1860 South Novell Place, Bu[.underline]#ilding H,
-Executive B#riefing Center, Provo, Utah
+Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#) +
+Novell, Inc., 1860 South Novell Place, Building H, +
+Executive Briefing Center, Provo, Utah
 ____
-
 |===
 
 The Interop, open to members and non-members, will comprise multiple
