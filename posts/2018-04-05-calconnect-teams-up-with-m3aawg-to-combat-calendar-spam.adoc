@@ -49,9 +49,9 @@ The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) is where the
 
 *For a PDF of this press release:*
 
-https://www.calconnect.org/sites/default/files/media/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf]
+https://www.calconnect.org/sites/default/files/media/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf] +
 
-# # #
+# # # #
 
 *Media Contacts:*
 
@@ -64,19 +64,15 @@ M3AAWG (Messaging, Malware and Mobile Anti-Abuse Working Group), https://www.m3a
 
 image:b98f7330f9134b32888a438ae3d092bc/media/image3.png[image,width=322,height=39]image:b98f7330f9134b32888a438ae3d092bc/media/image4.png[image]
 
-____
 image:b98f7330f9134b32888a438ae3d092bc/media/image1.png[image,width=209,height=46]
-____
 
 image:b98f7330f9134b32888a438ae3d092bc/media/image2.png[image,width=672]
 
 *News Release - Jointly issued by CalConnect and M3AAWG [.underline]#For
 Immediate Release#*
 
-____
 *Taking on Calendar Spam, Scheduling Developers Organization CalConnect
 Collaborates with Messaging Anti-Abuse M3AAWG*
-____
 
 *McKinleyville, CA and San Francisco, April 5, 2018* – Recognizing that
 calendar spam is a growing exploitation channel, CalConnect and the
@@ -128,7 +124,7 @@ a|
 •
 
 a|
-____
+
 Calendar spam, unlike email, can be placed chronologically anywhere in a
 calendar – in the past or the future, not just the present – making it
 difficult to detect at the time of delivery.
@@ -147,13 +143,13 @@ and where they were delivered.
 Calendar events often contain notifications or alarms that are
 propagated across a user’s many desktop and mobile calendaring clients,
 exacerbating the problem.
-____
+
 
 |===
 
 The Calendaring and Scheduling Consortium
 
-[.underline]#www.calconnect.org#
+[.underline]#www.calconnect.org# +
 
 *Taking on Calendar Spam, CalConnect Collaborates with M3AAWG* *2*
 
@@ -213,9 +209,9 @@ operators worldwide. It leverages the depth and experience of its global
 membership to tackle abuse on existing networks and new emerging
 services through technology, collaboration and public policy, and works
 to educate global policy makers on the technical and operational issues
-related to online abuse and messaging.
+related to online abuse and messaging. +
 
-# # # +
+# # # # +
 *Media Contacts:* +
 Ronald Tse, Director, External Relations,
 [.underline]#ronald.tse@calconnect.org# +
