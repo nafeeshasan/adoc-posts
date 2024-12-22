@@ -45,7 +45,7 @@ Apple will serve as host for the Seventh Roundtable of The Calendaring
 and Scheduling Consortium, together with a CalConnect Interoperability
 Test Event (C.I.T.E.) on September 26-29, 2006. Details on the
 Roundtable and C.I.T.E., as well as registration information, may be
-found at .
+found at www.calconnect.org.
 
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Consortium focuses on the interoperable exchange of calendaring and
