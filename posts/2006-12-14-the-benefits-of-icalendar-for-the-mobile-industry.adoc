@@ -24,8 +24,6 @@ and the press release is
 at
 link:{{'/docs/press-releases/061214%20icalendarbenefits.pdf' | relative_url }}[Consortium Paper specifies how and why of iCalendar].
 
-
-____
 *Calendaring & Scheduling Consortium Paper Specifies How, Why of
 iCalendar* _Interoperability Issues Squarely Addressed in Freely
 Available Guidelines_
@@ -89,6 +87,6 @@ Corporation, PeopleCube, Rensselaer Polytechnic
 Institute, Rockliffe, Stanford University, Symbian, TimeBridge, Trumba,
 UC Berkeley, University of Chicago, University of Washington, University
 of Wisconsin, Yahoo! Inc.
-____
+
 
 
