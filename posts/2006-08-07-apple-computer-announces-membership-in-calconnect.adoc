@@ -18,7 +18,6 @@ and today announced its CalDAV-based iCAL calendar server and an open
 source implementation of the server. The CalConnect press release is at
 link:{{'/docs/press-releases/060807applejoinscalconnect.pdf' | relative_url }}[Apple Computer Joins CalConnect].
 
-____
 *Apple Computer Joins CalConnect* +
 _Move Escalates Focus on Open, Standards-Based Calendaring and
 Scheduling Protocols_
@@ -63,6 +62,5 @@ Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
 Institute, Stanford University, +
 Symbian, TimeBridge, Trumba, UC Berkeley, University of Chicago,
 University of Washington, University of Wisconsin, Yahoo! Inc.
-____
 
 
