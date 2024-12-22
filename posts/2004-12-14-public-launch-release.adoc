@@ -60,16 +60,17 @@ conflicts between their competing products.
 The Consortium has a schedule of activities that give the relevant
 standards commercial value, that is, promotion, requirements setting,
 and validation. Events on the agenda include +
- Three to four interoperability testing events (“Interops”) a year, with
+• Three to four interoperability testing events (“Interops”) a year, with
 the next one scheduled for January 11-12 in Seattle, WA. +
 
-Roundtables and Technical Committee meetings of the Consortium; the next
+• Roundtables and Technical Committee meetings of the Consortium; the next
 is scheduled for 11-13 January in Seattle, WA, co-located with the
-Interop event.
+Interop event. +
 
-Ongoing Technical Committee work, intended to provide feedback or
+• Ongoing Technical Committee work, intended to provide feedback or
 information to IETF standards activities +
-Presentations at related conferences +
+
+• Presentations at related conferences +
 Non-members are welcome to participate in the Interops, but Roundtables
 and Technical Committees are for members only.
 
