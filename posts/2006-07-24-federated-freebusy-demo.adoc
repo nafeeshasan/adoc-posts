@@ -110,7 +110,9 @@ the deployment of the solutions demonstrated, and plan how to enrich the
 functionality and applicability of the solutions.
 
 A presentation describing the process and the demonstration may be found
-at: or
+at: +
+http://www.calconnect.org/presentations/Federated or +
+http://www.opengroup.org/messaging/public/jul-2006/freebusydemo.pdf +
 
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Consortium focuses on the interoperable exchange of calendaring and
@@ -129,18 +131,18 @@ Berkeley, University of Chicago, University of Washington, University of
 Wisconsin, Yahoo! Inc.
 
 Rensselaer Polytechnic Institute, founded in 1824, is the oldest
-technological university in the U.S. See for more information about
+technological university in the U.S. See http://www.rpi.edu for more information about
 Rensselaer.
 
 Bedework is an open source, standards-based, calendaring system. For
-more information about Bedework, see
+more information about Bedework, see http://www.bedework.org +
 
 TimeBridge is a venture-backed start up that is building an innovative
 meeting scheduling and collaboration service for busy professionals.
 Based in San Francisco, the company is currently in stealth mode and
 expects to launch its services later this year. TimeBridge is currently
 recruiting select users for its private beta program at
-www.timebridge.com. PR Contact: John Stormer, 510-589-8353, .
+www.timebridge.com. PR Contact: John Stormer, 510-589-8353, pr@timebridge.com .
 
 *About The Open Group’s IT Architecture Practitioners Conference* +
 The Open Group’s IT Architecture Practitioners Conference, now in its
