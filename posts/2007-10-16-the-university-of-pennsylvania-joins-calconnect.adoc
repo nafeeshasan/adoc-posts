@@ -18,7 +18,6 @@ membership:
 link:{{'/docs/press-releases/071016Penn%20Joins%20CalConnect.doc' | relative_url }}[Penn
 Joins CalConnect.doc]
 
-____
 *Penn Joins CalConnect* +
 _Collaboration Aimed at Advancing Calendar Interoperability_
 
@@ -74,6 +73,5 @@ TimeBridge, Trumba, UC Berkeley, University of Chicago, University of
 Michigan, University of Pennsylvania, University of Washington,
 University of +
 Wisconsin, Yahoo! Inc., Zimbra.
-____
 
 
