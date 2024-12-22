@@ -17,7 +17,6 @@ potential impact of the DST change and how to deal with it at
 link:{{'/dstdocs' | relative_url }}[DST recommendations]. The CalConnect press release is
 at link:{{'/docs/press-releases/070208edstrecommendations.pdf' | relative_url }}[DST Guidance].
 
-____
 *CalConnect Gives Guidance to IT Staff on Impact of DST Change*
 _University and Vendor Experts Offer Ways to Avert Problems_
 
@@ -123,6 +122,6 @@ Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
 Institute, Rockliffe, Stanford University, Symbian, Synchronica,
 TimeBridge, Trumba, UC Berkeley, University of Chicago, University of
 Washington, University of Wisconsin, Yahoo! Inc.
-____
+
 
 
