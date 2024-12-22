@@ -1,13 +1,4 @@
----
-layout: page
-title: Conferences rescheduled again; Nottingham will be in October 2022
-date: 2022-01-20
-type: news
-categories: the-world-of-calendaring special-focus general-information current-events
-excerpt: The CalConnect Nottingham Conference has been rescheduled once more, to October 10-14, 2022, and Virtual Conferences planned for Spring 2022.
----
-:page-liquid:
-
+____
 *Industry Leaders Score at Calendaring and Scheduling Interop*
 
 _IBM, Oracle Demonstrate Conformance with Key Parts of IETF
@@ -59,10 +50,13 @@ efforts of a number of standards bodies, including the IETF. These
 efforts help build momentum for the adoption of an open protocol to
 access and manage calendaring information.”
 
-*Media Contact*                            *Consortium Contact* +
-Maryann Karinch                             Dave Thewlis +
-970-577-8500                                707-840-9391 +
-[.underline]#maryann@karinch.com#           [.underline]#dave.thewlis@calconnect.org#
+*Media Contact* +
+Maryann Karinch +
+970-577-8500 +
+[.underline]#maryann@karinch.com#
 
-
-
+*Consortium Contact* +
+Dave Thewlis +
+707-840-9391 +
+[.underline]#dave.thewlis@calconnect.org#
+____
