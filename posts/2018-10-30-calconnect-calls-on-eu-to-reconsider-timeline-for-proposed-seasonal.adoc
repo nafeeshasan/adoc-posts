@@ -18,16 +18,13 @@ The full text of the Advisory Notice is available at
 link:{{'/docs/press-releases/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[Advisory
 Notice].
 
-image:a7d921d86b43434281919b60f8937eed/media/image1.png[image,width=433,height=54]
+image:a7d921d86b43434281919b60f8937eed/media/image1.png[image,width=433,height=54]  +
 
-____
 CalConnect calls on EU to reconsider timeline for proposed seasonal time
-changes
-____
+changes +
 
-Workshop and mailing list announced for discussion of technical impact
+Workshop and mailing list announced for discussion of technical impact +
 
-____
 Summary
 
 The European Commission has proposed, after public consultation, that
@@ -61,12 +58,10 @@ participating EU citizens voted to abandon daylight saving time in the
 EU.
 
 CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018 +
-1/5
-____
+1/5 +
 
-image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82]
+image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82] +
 
-____
 Specifically, the timeline specified in this proposal only gives EU
 member states 6 months of lead time from the decision date of March 2019
 (since the adoption date is set to 1 April 2019) to the effective date
@@ -108,12 +103,9 @@ were enforced in diverse areas without consideration of best practices
 and adequate planning, leaving user
 
 CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018 +
-2/5
-____
+2/5 +
+image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82] +
 
-image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82]
-
-____
 organizations, especially small and medium businesses, scrambling and
 suffering from the effects of using incorrect time zone information.
 
@@ -160,20 +152,15 @@ and ​,​ and standards bodies in its member states participate in this
 global partnership.
 
 CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018 +
-3/5
-____
-
+3/5 +
 image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82]
 
-____
-Public time zone change mailing list
-____
+Public time zone change mailing list +
 
 We have set up a public mailing list to discuss the challenges and best
-practices relating to time
+practices relating to time +
 
-____
-zone and DST changes worldwide at:
+zone and DST changes worldwide at: 
 
 ​​.
 
@@ -191,15 +178,13 @@ scheduling; much of our work touches on, or is applicable to, other
 collaboration technologies. See more at_ ​__.__
 
 CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018 +
-4/5
-____
+4/5 +
 
-image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82]
+image:a7d921d86b43434281919b60f8937eed/media/image2.png[image,width=82,height=82] +
 
-____
 References
 
-Articles relating this to proposal
+Articles relating this to proposal +
 
 ● Abschaffung der Zeitumstellung braucht mehr Zeit - +
  +
@@ -208,22 +193,21 @@ Articles relating this to proposal
 ● IANA statement - ​ +
 ● Mit dem Ende der Zeitumstellung droht ein neues Jahr-2000-Problem -
 
-Articles relating to past time changes and their challenges
+Articles relating to past time changes and their challenges +
 
 ● What is the daylight saving time (DST) problem? - +
 ● Daylight Saving Time – The Year 2007 Problem -
 
-CalConnect TZ and DST knowledge base
-____
+CalConnect TZ and DST knowledge base +
 
 [width="100%",cols="50%,50%",options="header",]
 |===
 |● |
 |===
 
-____
++
 CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018 +
 5/5
-____
+
 
 
