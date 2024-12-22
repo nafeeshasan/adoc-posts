@@ -60,16 +60,13 @@ scheduling solutions. Our focus is on interoperability, and open
 standards are the key.”
 
 *About IceWarp®* +
-IceWarp® Limited is an independent software developer targeting office,
-ISP, and enterprise-class communications solution with a 10-year track
-record in the messaging industry.
+IceWarp® Limited is an independent software developer targeting office, ISP, and enterpriseclass communications solution with a 10-year track record in the messaging industry. 
 
-IceWarp® Server is a premium messaging and collaboration platform that
-provides a full range of services, including secure Email, WebMail,
-Anti-Virus, multi-layer Anti-Spam, GroupWare, Instant Messaging, VoIP
-and mobile synchronization. To date, it has been adopted in more than 90
-thousand instaing mworldwide. For more +
-information, visit email or call 1.888.ICEWARP.
+IceWarp® Server is a premium messaging and collaboration platform that provides a full range
+of services, including secure Email, WebMail, Anti-Virus, multi-layer Anti-Spam, GroupWare,
+Instant Messaging, VoIP and mobile synchronization. To date, it has been adopted in more than
+90 thousand installations and is servicing millions of end users worldwide. For more
+information, visit www.icewarp.com, email info@icewarp.com or call 1.888.ICEWARP.
 
 *About CalConnect* +
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
@@ -77,11 +74,9 @@ among vendors, developers, and customers to advance calendaring and
 scheduling standards and +
 implementations. The mission is to provide mechanisms to allow
 calendaring and scheduling
-
 methodologies to interoperate, and to promote broad understanding of
 these methodologies so that calendaring and scheduling tools and
 applications can enter the mainstream of computing.
-
 The Consortium develops recommendations for improvement and extension of
 relevant standards, develops requirements and use cases for calendaring
 and scheduling specifications, conducts interoperability testing for
