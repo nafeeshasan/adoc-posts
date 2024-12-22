@@ -23,7 +23,7 @@ Workshop at Microsoft].
 _Registration Limited to 30; Presentations from Affected Industry
 Sectors Invited_
 
-The Calendaring and Scheduling Consortium () has opened registration for
+The Calendaring and Scheduling Consortium (www.calconnect.org) has opened registration for
 a one-day workshop on timezone implementatio information technology, and
 how it can be improved. The workshop will be held Tuesday, February 3,
 2009, from 0830-1730, hosted by Microsoft in Redmond, Washington.
@@ -64,7 +64,7 @@ intended to inform consumers of timezone data from a variety of
 industries and areas on CalConnect’s approach, and to develop consensus
 on an approach acceptable to all.
 
-To request an invitation to the event, go to
+To request an invitation to the event, go to https://www.calconnect.org/timezoneworkshopreq.shtml[Timezone Workshop Request for Invitation].
 
 CalConnect has established a public discussion list tos in advance of
 the workshop. Go to for more information and to sign up
