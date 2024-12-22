@@ -59,13 +59,10 @@ efforts of a number of standards bodies, including the IETF. These
 efforts help build momentum for the adoption of an open protocol to
 access and manage calendaring information.”
 
-[cols="1,1",frame="none",grid="none",align="left"]
-|===
-| Media Contact | Consortium Contact
-| Maryann Karinch | Dave Thewlis
-| 970-577-8500 | 707-840-9391
-| [.underline]#maryann@karinch.com# | [.underline]#dave.thewlis@calconnect.org#
-|===
+*Media Contact*                            *Consortium Contact* +
+Maryann Karinch                             Dave Thewlis +
+970-577-8500                                707-840-9391 +
+[.underline]#maryann@karinch.com#           [.underline]#dave.thewlis@calconnect.org#
 
 
 
