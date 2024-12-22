@@ -72,8 +72,6 @@ outside of their companies,” said Allen Brown, president and CEO, The
 Open Group. “The members of CalConnect and The Open Group came together
 to meet that challenge.”
 
-*_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
-
 CalConnect is working on comprehensive standards-based solutions for
 calendar and scheduling functionality and interoperability, of which
 exchange of free/busy information is an important part.
@@ -113,8 +111,6 @@ functionality and applicability of the solutions.
 
 A presentation describing the process and the demonstration may be found
 at: or
-
-*_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
 
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Consortium focuses on the interoperable exchange of calendaring and
@@ -178,9 +174,6 @@ trademarks of The Open Group.
 
 *CalConnect Media Contact*: Maryann Karinch, maryann@karinch.com, 970-577-8500 +
 *CalConnect Contact*: Dave Thewlis, dave.thewlis@calconnect.org, 707-840-9391
-
-*_Open Group and CalConnect Move Closer to Solving Free/Busy Problem_*
-*_Page 4_*
 
 *Open Group Media Contact:* Fred Bateman, The Bateman Group,
 fbateman@bateman-group.com, 415-503-1818, ext. 13
