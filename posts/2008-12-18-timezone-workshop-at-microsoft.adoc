@@ -66,8 +66,9 @@ on an approach acceptable to all.
 
 To request an invitation to the event, go to https://www.calconnect.org/timezoneworkshopreq.shtml[Timezone Workshop Request for Invitation].
 
-CalConnect has established a public discussion list tos in advance of
-the workshop. Go to for more information and to sign up
+CalConnect has established a public discussion list to allow workshop participants and others to
+discuss the topics in advance of the workshop. Go to https://www.calconnect.org/timezoneworkshoplist.shtml[CalConnect Timezone WorkshopDiscussion List]
+for more information and to sign up for the discussion list. 
 
 *The Calendaring and Scheduling Consortium (www.calconnect.org)* +
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
