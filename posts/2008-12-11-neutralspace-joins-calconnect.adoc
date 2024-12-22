@@ -25,7 +25,7 @@ Global Calendaring Hub_
 _and Social Network Environment_
 
 *McKinleyville, CA – December 11, 2008 –* The Calendaring and Scheduling
-Consortium has announced that neutralSpace, Inc has become one of the 14
+Consortium(www.CalConnect.org) has announced that neutralSpace, Inc has become one of the 14
 nies, and 2 open-source organizations that make up the consortium.
 Membership of neutralSpace reflects the recent growth of the
 organization through the addition of young, innovative companies.
@@ -49,7 +49,7 @@ implementation of open standards in calendaring and scheduling
 solutions. Our focus is on interoperability, and open standards are the
 key.”
 
-Danton (Dan) Mendell, President and CEO of neutralSpace , stated, “Our
+Danton (Dan) Mendell, President and CEO of neutralSpace(www.neutralspace.com), stated, “Our
 innovative and open-source solutions to these difficult cake
 collaboration within the CalConnect standards a natural step. Our
 mission for dotCal is to do for calendar sharing what email did for
