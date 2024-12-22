@@ -1,4 +1,4 @@
-____
+___
 *Industry Leaders Score at Calendaring and Scheduling Interop*
 
 _IBM, Oracle Demonstrate Conformance with Key Parts of IETF
@@ -59,4 +59,4 @@ Maryann Karinch +
 Dave Thewlis +
 707-840-9391 +
 [.underline]#dave.thewlis@calconnect.org#
-____
+___
